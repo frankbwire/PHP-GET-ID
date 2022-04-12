@@ -29,23 +29,23 @@
                 <tbody>
                     <tr>
                         <td>Data 1</td>
-                        <td><a class="btn btn-info btn-sm" role="button">edit</a></td>
+            <td><a class="btn btn-info btn-sm" role="button" href="data.php?id=<?php echo $d="Data 1"; ?>">edit</a></td>
                     </tr>
                     <tr>
                         <td>Data 2</td>
-                        <td><a class="btn btn-info btn-sm" role="button">edit</a></td>
+                        <td><a class="btn btn-info btn-sm" role="button" href="data.php?id=<?php echo $d="Data 2"; ?>">edit</a></td>
                     </tr>
                     <tr>
                         <td>Data 3</td>
-                        <td><a class="btn btn-info btn-sm" role="button">edit</a></td>
+                        <td><a class="btn btn-info btn-sm" role="button" href="data.php?id=<?php echo $d="Data 3"; ?>">edit</a></td>
                     </tr>
                     <tr>
                         <td>Data 4</td>
-                        <td><a class="btn btn-info btn-sm" role="button">edit</a></td>
+                        <td><a class="btn btn-info btn-sm" role="button" href="data.php?id=<?php echo $d="Data 4"; ?>">edit</a></td>
                     </tr>
                     <tr>
                         <td>Data 5</td>
-                        <td><a class="btn btn-info btn-sm" role="button">edit</a></td>
+                        <td><a class="btn btn-info btn-sm" role="button" href="data.php?id=<?php echo $d="Data 5"; ?>">edit</a></td>
                     </tr>
                 </tbody>
             </table>
